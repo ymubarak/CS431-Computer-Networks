@@ -1,0 +1,3 @@
+Hi thi is a posting sample text
+>>
+client sends data to server.

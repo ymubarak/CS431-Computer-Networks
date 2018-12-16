@@ -1,0 +1,4 @@
+This is a sample text file.
+It's inteded to check>>>>>>>>
+the validity of client-server communication.
+and it works :)
